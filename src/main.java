@@ -2,9 +2,9 @@ public class main
 {
     public static void Main(String[] args)
     {
-        Point p1 = new Point(0,0);
-        Point p2 = new Point(3,0);
-        Segment s = new Segment(p1,p2);
-        System.out.println(s.length());
+        Point P1 = new Point(0,0);
+        Point P2 = new Point(3,0);
+        Segment S = new Segment(P1,P2);
+        System.out.println(S.length());
     }
 }
