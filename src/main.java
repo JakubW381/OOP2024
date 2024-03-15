@@ -1,6 +1,6 @@
 public class main
 {
-    public static void main(String[] args)
+    public static void Main(String[] args)
     {
         Point p1 = new Point(0,0);
         Point p2 = new Point(3,0);
